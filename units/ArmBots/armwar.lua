@@ -111,7 +111,7 @@ return {
 		},
 		weapondefs = {
 			armwar_laser = {
-				areaofeffect = 8,
+				areaofeffect = 0,
 				avoidfeature = false,
 				beamtime = 0.12,
 				corethickness = 0.155,
@@ -121,7 +121,6 @@ return {
 				edgeeffectiveness = 0.15,
 				explosiongenerator = "custom:laserhit-small-red",
 				firestarter = 30,
-				impactonly = 1,
 				impulseboost = 0,
 				impulsefactor = 0,
 				laserflaresize = 7.7,

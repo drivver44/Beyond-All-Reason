@@ -108,7 +108,7 @@ return {
 		},
 		weapondefs = {
 			flea_laser = {
-				areaofeffect = 8,
+				areaofeffect = 0,
 				avoidfeature = false,
 				beamtime = 0.1,
 				beamttl = 1,
@@ -121,7 +121,6 @@ return {
 				energypershot = 2,
 				explosiongenerator = "custom:laserhit-tiny-yellow",
 				firestarter = 50,
-				impactonly = 1,
 				impulseboost = 0,
 				impulsefactor = 0,
 				laserflaresize = 1.65,

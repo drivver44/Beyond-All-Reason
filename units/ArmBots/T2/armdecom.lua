@@ -125,7 +125,7 @@ return {
 		},
 		weapondefs = {
 			armcomlaser = {
-				areaofeffect = 12,
+				areaofeffect = 0,
 				avoidfeature = false,
 				beamtime = 0.1,
 				corethickness = 0.1,
@@ -136,7 +136,6 @@ return {
 				edgeeffectiveness = 1,
 				explosiongenerator = "custom:laserhit-small-red",
 				firestarter = 70,
-				impactonly = 1,
 				impulseboost = 0,
 				impulsefactor = 0,
 				laserflaresize = 5.5,
@@ -163,7 +162,7 @@ return {
 				},
 			},
 			armcomsealaser = {
-				areaofeffect = 12,
+				areaofeffect = 0,
 				avoidfeature = false,
 				beamtime = 0.3,
 				corethickness = 0.4,
@@ -175,7 +174,6 @@ return {
 				explosiongenerator = "custom:laserhit-small-blue",
 				firestarter = 35,
 				firesubmersed = true,
-				impactonly = 1,
 				impulseboost = 0,
 				impulsefactor = 0,
 				intensity = 0.3,

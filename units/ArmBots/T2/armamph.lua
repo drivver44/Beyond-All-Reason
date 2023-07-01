@@ -159,7 +159,7 @@ return {
 				},
 			},
 			armamph_weapon1 = {
-				areaofeffect = 8,
+				areaofeffect = 0,
 				avoidfeature = false,
 				beamtime = 0.1,
 				corethickness = 0.175,
@@ -170,7 +170,6 @@ return {
 				energypershot = 2,
 				explosiongenerator = "custom:laserhit-small-red",
 				firestarter = 20,
-				impactonly = 1,
 				impulseboost = 0,
 				impulsefactor = 0,
 				name = "Light close-quarters laser",
