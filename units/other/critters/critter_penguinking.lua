@@ -32,7 +32,7 @@ return {
 		maxslope = 45,
 		maxvelocity = 0.85,
 		maxwaterdepth = 22,
-		movementclass = "BOT1",
+		movementclass = "BOTland1X2",
 		movestate = -1,
 		noautofire = false,
 		nochasecategory = "MOBILE ",

@@ -398,7 +398,7 @@ local moveDatas = {
 
 	--armflea critter_ant dice critter_penguinbro xmasball2 critter_penguin critter_duck xmasball chip
 	-- make a suggestion thread critterh
-	BOT1 = {
+	BOTland1X2 = {
 		crushstrength = 5,
 		footprintx = 2,
 		footprintz = 2,
@@ -503,7 +503,7 @@ local moveDatas = {
 	-- },
 	-- review this
 	-- armvang corkarg
-	SPIDERALLLAND4X$ = {
+	SPIDERALLLAND4X4 = {
 		crushstrength = 252,
 		footprintx = 4,
 		footprintz = 4,

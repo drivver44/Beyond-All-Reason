@@ -22,7 +22,7 @@ return {
 		maxslope = 255,
 		maxvelocity = 4.4,
 		maxwaterdepth = 16,
-		movementclass = "BOT1",
+		movementclass = "BOTland1X2",
 		nochasecategory = "VTOL",
 		objectname = "Units/ARMFLEA.s3o",
 		script = "Units/ARMFLEA.cob",
