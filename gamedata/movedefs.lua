@@ -397,7 +397,6 @@ local moveDatas = {
 	},
 
 	--armflea critter_ant dice critter_penguinbro xmasball2 critter_penguin critter_duck xmasball chip
-	-- make a suggestion thread critterh
 	BOTland1X2 = {
 		crushstrength = 5,
 		footprintx = 2,
