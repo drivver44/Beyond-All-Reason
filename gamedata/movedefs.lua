@@ -481,7 +481,7 @@ local moveDatas = {
 	},
 	-- see if this one can be merged elsewhere 
 	-- corshiva armmar
-	HABOT4 = {
+	BOTAMPH4X4 = {
 		crushstrength = 252,
 		depthmod = 0,
 		footprintx = 4,
@@ -503,7 +503,7 @@ local moveDatas = {
 	-- },
 	-- review this
 	-- armvang corkarg
-	HTBOT4 = {
+	SPIDERALLLAND4X$ = {
 		crushstrength = 252,
 		footprintx = 4,
 		footprintz = 4,

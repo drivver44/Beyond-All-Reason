@@ -22,7 +22,7 @@ return {
 		maxslope = 160,
 		maxvelocity = 1.5,
 		maxwaterdepth = 12,
-		movementclass = "HTBOT4",
+		movementclass = "SPIDERALLLAND4X4",
 		nochasecategory = "VTOL",
 		objectname = "Units/CORKARG.s3o",
 		script = "Units/CORKARG.COB",

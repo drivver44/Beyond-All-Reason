@@ -24,7 +24,7 @@ return {
 		maxslope = 17,
 		maxvelocity = 1.1,
 		maxwaterdepth = 0,
-		movementclass = "HTBOT4",
+		movementclass = "SPIDERALLLAND4X4",
 		nochasecategory = "VTOL",
 		objectname = "Units/ARMVANG.s3o",
 		script = "Units/ARMVANG.cob",
