@@ -22,7 +22,7 @@ return {
 		maxslope = 36,
 		maxvelocity = 1.61,
 		maxwaterdepth = 32,
-		movementclass = "HABOT4",
+		movementclass = "BOTAMPH4X4",
 		nochasecategory = "VTOL",
 		objectname = "Units/CORSHIVA.s3o",
 		script = "Units/CORSHIVA.cob",

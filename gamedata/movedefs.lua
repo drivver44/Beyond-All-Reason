@@ -18,7 +18,9 @@
 	--		maxValue = 0.7,
 	--	}
 	--},
-
+	-- movedeff name is 
+	-- `class of unit` `area intended for the unit to move in` `number of movedeff incase there is similarity` added X here `x axis size of the movedeff`
+	--
 ----------------------------------------------------------------------------------
 local moveDatas = {
 					--all arm and core commanders and their decoys
@@ -53,7 +55,7 @@ local moveDatas = {
 	-- 	},
 	-- },
 
-	-- amphibious bots  possible merger with abotbomb2
+	-- 
 	--critter_crab chickens1 cormando chickens2 armaak corcrash chickems2_spectre armjeth coramph coraak corroach corsktl armvader
 	ABOT2 = {
 		crushstrength = 50,
