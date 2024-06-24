@@ -45,8 +45,8 @@ local inputButton = true
 local allowMultiAutocomplete = true
 local allowMultiAutocompleteMax = 10
 
-local ui_scale = tonumber(Spring.GetConfigFloat("ui_scale",1) or 1)
-local ui_opacity = tonumber(Spring.GetConfigFloat("ui_opacity", 0.7) or 0.6)
+local ui_scale = Spring.GetConfigFloat("ui_scale", 1)
+local ui_opacity = Spring.GetConfigFloat("ui_opacity", 0.7)
 local widgetScale = (((vsx*0.3 + (vsy*2.33)) / 2000) * 0.55) * (0.95+(ui_scale-1)/1.5)
 
 local maxLinesScroll = maxLinesScrollFull
@@ -2093,7 +2093,7 @@ function widget:MapDrawCmd(playerID, cmdType, x, y, z, a, b, c)
 end
 
 function widget:AddConsoleLine(lines, priority)
-	lines = lines:match('^\[f=[0-9]+\] (.*)$') or lines
+	lines = lines:match('^%[f=[0-9]+%] (.*)$') or lines
 	for line in lines:gmatch("[^\n]+") do
 		processAddConsoleLine(spGetGameFrame(), line, true)
 	end
