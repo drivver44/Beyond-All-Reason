@@ -35,7 +35,7 @@ local lvlParams = {
 
         --unitspawning
         landunitspawns = "armsptk armmav armfido armamph armlatnk armbull armgremlin armzeus armfast corpyro corsala corhal correap coramph cortermite corcan corparrow armcroc legaskirmtank legfloat legmrv legaheattank legshot legstr armstump corraid leggat armstump corraid leggat armstump corraid leggat armstump corraid leggat armstump corraid leggat armstump corraid leggat armstump corraid leggat armstump corraid leggat armstump corraid leggat",
-        landturretspawns = "armpb armclaw armclaw armcir corvipe cormaw cormaw corerad legbombard legdtr legdtr legrhapsis legrhapsis armferret armferret legrhapsis legrhapsis cormadsam cormadsam armhlt corhlt legmg  armhlt corhlt legmg armhlt corhlt legmg armhlt corhlt legmg armhlt corhlt legmg",
+        landturretspawns = "armpb armclaw armclaw armcir corvipe cormaw cormaw corerad legdtr legdtr legrhapsis legrhapsis armferret armferret legrhapsis legrhapsis cormadsam cormadsam armhlt corhlt legmg  armhlt corhlt legmg armhlt corhlt legmg armhlt corhlt legmg armhlt corhlt legmg",
         waterspawns = "armlship armbats armserp armcrus corshark corbats corfship corssub corcrus corhal corhal armpship corpship armanac corsnap legner armpship corpship armanac corsnap legner armpship corpship armanac corsnap legner",
         unitspawnrange = 275, 
         turretspawnrange = 375, 
