@@ -107,6 +107,7 @@ return {
 				accuracy = 350,
 				areaofeffect = 140,
 				avoidfeature = false,
+				cegtag = "Heavy-Navy-Plasma",
 				craterboost = 0,
 				cratermult = 0,
 				edgeeffectiveness = 0.15,
