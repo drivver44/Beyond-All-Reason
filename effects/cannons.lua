@@ -587,6 +587,29 @@ local definitions = {
     	},
 	},
 	
+			["Heavy-Navy-Plasma"] = {
+		flame = {
+            air                = true,
+            class              = [[CBitmapMuzzleFlame]],
+            count              = 1,
+            ground             = true,
+            underwater         = true,
+            water              = true,
+            properties = {
+                colormap           = [[0.9 0.65 0.3 0.007   0.9 0.6 0.2 0.006   0.8 0.3 0.1 0.004   0 0 0 0.01]],
+                dir                = [[dir]],
+                frontoffset        = 0, --0.03
+                fronttexture       = [[null]], --glow
+                length             = -0.4,
+                sidetexture        = [[trail]],
+                size               = 12,
+                sizegrowth         = -0.09,
+                ttl                = 3,
+                useairlos          = true,
+                castShadow         = False,
+        	},
+    	},
+	},
 	
 	["starfire"] = {
 		flame = {
